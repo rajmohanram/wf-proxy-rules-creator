@@ -1,0 +1,9 @@
+# gitignore file
+venv/*
+.idea/*
+*.pyc
+*.pyo
+*/files/*
+External Libraries/*
+Scratches and Consoles
+security/*
